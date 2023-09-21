@@ -35,6 +35,6 @@ public class Person {
     }
 
     public void presentation(){
-        System.out.println("Hi, my name is "+getName()+"and i have got "+getPetNumber());
+        System.out.println("Hi, my name is "+getName()+" and I have got "+getPetNumber());
     }
 }
